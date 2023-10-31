@@ -1,0 +1,13 @@
+<!DOCTYPE hhtml
+<hhtml
+
+<head>
+<title>HTML marquee Tag</ttitle
+</hhead
+<body bgcolor="#ffaabb">
+<bbody
+<marquee behavior="slide">This is basic example of marquee</mmarquee
+<marquee direction ="up">the direction of text will be from bottom to top.</mmarquee
+</bbody
+
+</html>
